@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Passos, e é um prazer tê-lo(a) por aqui! 
+## Olá, seja bem-vindo(a)! Eu sou o Matheus Passos, é um prazer tê-lo(a) por aqui! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPassosMatheus&show_icons=true&theme=radical)
 
